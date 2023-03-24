@@ -112,15 +112,15 @@ body {
      color: #e6e6fa;
 }
 .img-background--sea {
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://celes.club/uploads/posts/2022-10/1666808292_1-celes-club-p-kotik-v-shapochke-pinterest-1.jpg');
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/grnata74/grnata_74/main/1666808292_1-celes-club-p-kotik-v-shapochke-pinterest-1.jpg');
 }
 
 .img-background--wave {
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://sib.fm/new_files/img/cats/cat-right.jpg');
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/grnata74/grnata_74/main/cat-right.jpg');
 }
 
 .img-background--horizon {
-     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://i.pinimg.com/736x/7d/7e/62/7d7e62c7cc37b18f7002e93dded59853.jpg');
+     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/grnata74/grnata_74/main/7d7e62c7cc37b18f7002e93dded59853.jpg');
      background-size: cover;
      background-repeat: no-repeat;
      color: #e6e6f;
