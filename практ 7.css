@@ -20,7 +20,7 @@ body {
 }
 .layer-5 {
      animation: animation_fg linear 100s infinite both; 
-	 background: url(https://raw.githack.com/grnata74/grnata_74/main/%D0%9D%D0%B5%D0%B1%D0%BE%20%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B%207%20%D1%81%D0%BB%D0%BE%D0%B9-PhotoRoom.png) 0 100% repeat-x;
+	 background: url(https://github.com/grnata74/grnata_74/blob/main/%D0%9D%D0%B5%D0%B1%D0%BE%20%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B%207%20%D1%81%D0%BB%D0%BE%D0%B9-PhotoRoom.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -31,7 +31,7 @@ body {
 }
 .layer-4 {
      animation: animation_fg linear 90s infinite both; 
-	 background: url(https://raw.githack.com/grnata74/grnata_74/main/%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%206%20%D1%81%D0%BB%D0%BE%D0%B9.png) 0 100% repeat-x;
+	 background: url(https://github.com/grnata74/grnata_74/blob/main/%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%206%20%D1%81%D0%BB%D0%BE%D0%B9.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -42,7 +42,7 @@ body {
 	 }
 	 .layer-3 {
      animation: animation_fg linear 70s infinite both; 
-	 background: url(https://raw.githack.com/grnata74/grnata_74/main/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%20%D1%81%20%D1%83%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%20%D1%84%D0%BE%D0%BD%D0%BE%D0%BC%205%20%D1%81%D0%BB%D0%BE%D0%B9.png) 0 100% repeat-x;
+	 background: url(https://github.com/grnata74/grnata_74/blob/main/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%20%D1%81%20%D1%83%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%20%D1%84%D0%BE%D0%BD%D0%BE%D0%BC%205%20%D1%81%D0%BB%D0%BE%D0%B9.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -95,6 +95,7 @@ body {
 	 background-size: auto 110px;
 	 animation: animation_object linear 10s infinite both;
 }
+
 @keyframes animation_fg {
  0% {
 background-position: 2765px 100%;
