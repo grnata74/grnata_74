@@ -147,17 +147,17 @@ Contempo 1
  background-repeat: no-repeat;
  background-position: top center;
 }
-#flat .line-break 1{
+#flat .line-break1{
  background: linear-gradient(60deg, blue, pink, yellow);
  width: 100%;
  margin: 0 auto;
 }
-#flat .line-break 2{
+#flat .line-break2{
  background: linear-gradient(60deg, pink, yellow, blue);
  width: 100%;
  margin: 0 auto;
 }
-#flat .line-break 3{
+#flat .line-break3{
  background: linear-gradient(60deg, yellow, blue, pink);
  width: 100%;
  margin: 0 auto;
