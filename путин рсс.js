@@ -4,7 +4,7 @@ var slideHeight;
 var sliderUlWidth;
 
 $(function() {
- getRssFeed("https://www.pipes.digital/feed/VNzjr0N4?", mapFeed);
+ getRssFeed("https://inlnk.ru/golXeB", mapFeed);
 
  $('.left-arrow').on('click', function () {
   moveLeft();
