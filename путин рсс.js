@@ -2,7 +2,6 @@ var slideCount;
 var slideWidth;
 var slideHeight;
 var sliderUlWidth;
-
 $(function() {
  getRssFeed("https://inlnk.ru/golXeB", mapFeed);
 
@@ -18,9 +17,6 @@ $(function() {
   returnCarouselList();
  });
 });
-
-21) Функция движения по стрелкам:
-
 function moveLeft() {
  $('.carousel').animate({
   left: + slideWidth
@@ -29,7 +25,6 @@ function moveLeft() {
   $('.carousel').css('left', '');
  });
 }
-
 function moveRight() {
  $('.carousel').animate({
   left: - slideWidth
@@ -50,7 +45,6 @@ function mapFeed(result) {
   createFeedList(result.feed.entries.slice(0, 20));
   }
 }
-
 function createCarouselList(elements) {
  var list = [];
  $(elements).each(function(index, element) {
